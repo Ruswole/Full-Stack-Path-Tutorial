@@ -1,10 +1,12 @@
-.body {
+body {
   margin: 20px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .avatar {
   width: 150px;
-  height: 150px;
+  border-radius: 50%;
 }
 
 .card {
@@ -13,10 +15,10 @@
   margin-right: auto;
   padding: 20px;
   justify-content: space-around;
-  font-family: Arial, sans-serif;
   display: flex;
-}
+  text-align: center;
 
-.border-blue {
-  border: 2px dotted blue;
+  background: rgb(151, 122, 215);
+  color: #2b2839;
+  border-bottom: 6px solid rgb(0, 0, 0);
 }
