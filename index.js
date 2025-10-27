@@ -56,3 +56,5 @@ document.addEventListener("DOMContentLoaded", function () {
 
   console.log("JS: All interactive elements initialized.");
 });
+
+
