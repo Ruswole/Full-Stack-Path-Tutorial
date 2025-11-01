@@ -1,7 +1,3 @@
-a:hover {
-  background-color: #ba181b;
-}
-
 a {
   text-align: center;
   color: white;
@@ -12,4 +8,8 @@ a {
   font-weight: bold;
   display: block;
   text-decoration: none;
+}
+
+a:hover {
+  background-image: url("../images/blackhole.gif");
 }
