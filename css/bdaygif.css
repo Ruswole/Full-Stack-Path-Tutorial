@@ -21,7 +21,26 @@ p {
   border: 6px solid #efb0c9;
 }
 
-h2,
-h4 {
+#bday-age {
   background: #efb0c9;
+  padding: 5px 10px;
+  border-radius: 5px;
+  margin-bottom: 5px 0 10px 0;
+}
+
+#bday-date {
+  margin: 0;
+  background: #efb0c9;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+#header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.gift-img {
+  width: 400px;
 }
