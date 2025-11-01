@@ -41,6 +41,24 @@ p {
   align-items: center;
 }
 
+.gift-section {
+  margin-top: 50px;
+}
+
+.gift-title {
+  margin-bottom: 10px;
+}
+
+.gift-hint {
+  margin-top: 0;
+}
+
 .gift-img {
+  margin: auto;
   width: 400px;
+  height: 400px;
+  border: 6px solid white;
+  border-radius: 10px;
+  background-image: url("../images/gift-cover.jpg");
+  background-size: cover;
 }
