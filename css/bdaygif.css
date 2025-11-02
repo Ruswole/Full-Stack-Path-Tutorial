@@ -59,7 +59,8 @@ p {
   height: 400px;
   border: 6px solid white;
   border-radius: 10px;
-  background-image: url("../images/gift-cover.jpg");
+  background: linear-gradient(lightskyblue, white);
+  /* background-image: url("../images/gift-cover.jpg"); */
   background-size: cover;
 }
 
