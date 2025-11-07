@@ -1,8 +1,8 @@
 body {
-  background: url(/images/station.jpg);
+  background: url("../images/stationw.jpg");
   background-size: cover;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-    Oxygen, Ubuntu, Cantarell, "en Sans", "Helvetica Neue", sans-serif;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    "Open Sans", "Helvetica Neue", sans-serif;
   font-weight: bold;
   text-align: center;
 }
@@ -19,4 +19,6 @@ h2 {
 }
 
 button {
+  border: none;
+  padding-top: 10px;
 }
