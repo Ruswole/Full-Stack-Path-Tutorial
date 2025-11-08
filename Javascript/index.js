@@ -1,13 +1,18 @@
 // document.getElementById("count-el").innerText = 5;
 
-let count = 0;
-
+// cmd+k+C
+// let firstBatch = 5;
+// let secondBatch = 7;
+// let count = firstBatch + secondBatch;
 // console.log(count);
 
-console.log(myAge);
+// 1. Create two variables, myAge and humanDogRatio.
+// 2. Multiply the two together and store the result in a variable named myDogAge.
+// 3. Log myDogAge to the console.
 
-//1. Create a variable, myAge, and set its value to your age
 let myAge = 35;
+let humnanDogRatio = 7;
 
-//2. Log the value of myAge to the console
-console.log(myAge);
+let myDogAge = myAge * humnanDogRatio;
+
+console.log(myDogAge);
