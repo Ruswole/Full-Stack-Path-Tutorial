@@ -1,5 +1,9 @@
 // document.getElementById("count-el").innerText = 5;
 
+let count = 5;
+
+count = count + 1;
+console.log(count);
 // cmd+k+C
 // let firstBatch = 5;
 // let secondBatch = 7;
@@ -10,9 +14,21 @@
 // 2. Multiply the two together and store the result in a variable named myDogAge.
 // 3. Log myDogAge to the console.
 
-let myAge = 35;
-let humnanDogRatio = 7;
+// let myAge = 35;
+// let humnanDogRatio = 7;
 
-let myDogAge = myAge * humnanDogRatio;
+// let myDogAge = myAge * humnanDogRatio;
 
-console.log(myDogAge);
+// console.log(myDogAge);
+
+let bonusPoints = 50;
+console.log(bonusPoints);
+
+bonusPoints = bonusPoints + 50;
+console.log(bonusPoints);
+
+bonusPoints = bonusPoints - 75;
+console.log(bonusPoints);
+
+bonusPoints = bonusPoints + 45;
+console.log(bonusPoints);
