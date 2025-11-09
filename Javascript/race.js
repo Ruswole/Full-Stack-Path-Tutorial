@@ -34,4 +34,12 @@
 
 let LapsCompleted = 0;
 
+function incrementLaps() {
+  LapsCompleted = lapsCompleted + 1;
+}
+
+incrementLaps();
+incrementLaps();
+incrementLaps();
+
 console.log(LapsCompleted);
